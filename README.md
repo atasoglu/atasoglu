@@ -5,7 +5,7 @@ I am a software engineer 👨‍💻 working at the intersection of AI, robotics
 - 🌱 I'm currently working on robotics, specifically embodied agents.  
 - 🎤 I'm open to collaborations, research discussions, and speaking opportunities.  
 - 💬 Ask me about Python, bio-inspired algorithms, natural language understanding, and robotics interfaces.  
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmet-ata%C5%9Fo%C4%9Flu/).  
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmet-ata%C5%9Fo%C4%9Flu/) or [HuggingFace 🤗](https://huggingface.co/atasoglu).  
 - 🤭 Fun fact: I love watching mockumentaries.
 
 ![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atasoglu&show_icons=true&theme=radical)
