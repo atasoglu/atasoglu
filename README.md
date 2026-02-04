@@ -8,9 +8,10 @@ I am a software engineer 👨‍💻 working at the intersection of AI, robotics
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmet-ata%C5%9Fo%C4%9Flu/) or [HuggingFace 🤗](https://huggingface.co/atasoglu).  
 - 🤭 Fun fact: I love watching mockumentaries.
 
+<!--
 ![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atasoglu&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atasoglu&hide_progress=false&size_weight=0&count_weight=1&hide=jupyter%20notebook,html,css&layout=compact&theme=radical)
-
+-->
 <!--
 **atasoglu/atasoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
