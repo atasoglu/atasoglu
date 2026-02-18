@@ -1,12 +1,13 @@
 ## Hi there 👋 I'm Ahmet
 
-I am a software engineer 👨‍💻 working at the intersection of AI, robotics, and language models. I enjoy experimenting with LLMs and building tools that create new things. Outside of engineering, I love creating technical content, sharing ideas, and learning something new every day.
+I am a Machine Learning Engineer specializing in LLMs, Multimodal Systems, and Embodied AI, with a focus on open-source ML tooling, reproducible systems, and efficient model architectures.
 
-- 🌱 I'm currently working on robotics, specifically embodied agents.  
-- 🎤 I'm open to collaborations, research discussions, and speaking opportunities.  
-- 💬 Ask me about Python, bio-inspired algorithms, natural language understanding, and robotics interfaces.  
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/ahmet-ata%C5%9Fo%C4%9Flu/) or [HuggingFace 🤗](https://huggingface.co/atasoglu).  
-- 🤭 Fun fact: I love watching mockumentaries.
+- 🌱 I'm currently working on **Multimodal Models** and **Embodied Agents**.
+- 🔬 Focused on **open-source ML tooling**, **reproducible systems**, and **efficient model architectures**.
+- 💬 Ask me about LLMs, multimodal systems, training pipelines, and robotics.
+- 🌐 Check out my website: [atasoglu.github.io](https://atasoglu.github.io)
+- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/ahmet-ataşoğlu) or [HuggingFace 🤗](https://huggingface.co/atasoglu).
+- 🤭 **Fun fact:** I love watching mockumentaries.
 
 <!--
 ![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atasoglu&show_icons=true&theme=radical)
