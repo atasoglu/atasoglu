@@ -4,7 +4,6 @@ I am a Machine Learning Engineer specializing in LLMs, Multimodal Systems, and E
 
 - 🌱 I'm currently working on **Multimodal Models** and **Embodied Agents**.
 - 🔬 Focused on **open-source ML tooling**, **reproducible systems**, and **efficient model architectures**.
-- 💬 Ask me about LLMs, multimodal systems, training pipelines, and robotics.
 - 🌐 Check out my website: [atasoglu.github.io](https://atasoglu.github.io)
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/ahmet-ataşoğlu) or [HuggingFace 🤗](https://huggingface.co/atasoglu).
 - 🤭 **Fun fact:** I love watching mockumentaries.
