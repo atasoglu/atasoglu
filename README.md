@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Ahmet
 
-I am a Machine Learning Engineer specializing in LLMs, Multimodal Systems, and Embodied AI, with a focus on open-source ML tooling, reproducible systems, and efficient model architectures.
+I am an AI Engineer specializing in LLMs, Multimodal Systems, and Embodied AI, focused on building open-source, reproducible, and accessible AI tools.
 
 - 🌱 I'm currently working on **Multimodal Models** and **Embodied Agents**.
-- 🔬 Focused on **open-source ML tooling**, **reproducible systems**, and **efficient model architectures**.
-- 🌐 Check out my website: [atasoglu.github.io](https://atasoglu.github.io)
-- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/ahmet-ataşoğlu) or [HuggingFace 🤗](https://huggingface.co/atasoglu).
-- 🤭 **Fun fact:** I love watching mockumentaries.
+- 🌐 Check out my [website](https://atasoglu.github.io) and [HuggingFace 🤗 page](https://huggingface.co/atasoglu).
+- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/ahmet-ataşoğlu).
+- 🤭 **Fun fact:** I love watching [mockumentaries](https://en.wikipedia.org/wiki/Mockumentary).
 
 <!--
 ![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atasoglu&show_icons=true&theme=radical)
